@@ -1,6 +1,6 @@
 __author__ = "jan-nabot"
 # This is my humble solution to problem #11 from Project Euler.
-# And first git commit as well :)
+# Do not read any of below if you want to solve problem by yourself!
 
 
 # raw table version left for easier reference
